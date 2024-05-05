@@ -1,5 +1,5 @@
-export function sampleFunction(x: string): string {
-  const result = x + " is " + x;
+export function sum(a:number, b:number): string {
+  const result = `a + b is ${a+b}`
   // debugger;
   return result;
 }

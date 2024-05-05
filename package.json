@@ -2,7 +2,14 @@
   "name": "template-express-ts",
   "version": "1.0.0",
   "author": "Tofik Nuryanto <info@ndalu.id>",
-  "keywords": ["typescript","express","express template","import alias","jest","unit test"],
+  "keywords": [
+    "typescript",
+    "express",
+    "express template",
+    "import alias",
+    "jest",
+    "unit test"
+  ],
   "description": "Template for express using typescript concurrently alias import and unit test",
   "main": "dist/index.js",
   "license": "MIT",

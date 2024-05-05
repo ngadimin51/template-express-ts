@@ -1,9 +1,9 @@
-import { sampleFunction } from "../src/sample";
+import { sum } from "../src/sample";
 
 describe("This is a simple test", () => {
-  test("Check the sampleFunction function", () => {
-    const actual = sampleFunction("hello");
+  test("Check the sum function", () => {
+    const actual = sum(2, 7);
     // debugger
-    expect(actual).toEqual("hello is hello");
+    expect(actual).toEqual(`a + b is 9`);
   });
 });
