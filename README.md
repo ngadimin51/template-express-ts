@@ -1,12 +1,13 @@
 # ABOUT
   template for web app :
   - express
-  - helmet
-  - body-parser
+  - typescript
 
   include :
   - import alias [@/*]
   - jest for unit test
+  - helmet
+  - body-parser
 
 # how to use
   clone or download as zip
